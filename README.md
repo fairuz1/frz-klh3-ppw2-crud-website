@@ -1,2 +1,2 @@
-# frz-ppw2-prj1-crud-website
-CRUD Website Project
+# Ayo Berpartisipasi, Tambahkan Data Game Kesukaan Anda!
+Tugas CRUD Website dimana anda bisa **menambahkan** data game favorit anda dan menyimpannya. Anda juga bisa **menghapus** dan **mengupdate** datanya loh! Tapi jangan hapus dan update data orang lain ya. Untuk berpartisipasi, silahkan akses situs webnya di [frz-ppw2-prj1-crud-website](https://frz-ppw2-prj1-crud-website.herokuapp.com/index.php).
